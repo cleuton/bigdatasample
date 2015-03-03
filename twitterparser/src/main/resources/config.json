@@ -1,0 +1,10 @@
+{
+	"consumerKey" : "<twitter consumer key>",
+	"consumerSecret" : "<twitter consummer secret>",
+	"limit" : 50,
+	"secret" : "<twitter secret>",
+	"token" : "<twitter token>",
+	"googleApiKey": "<google translate API key>",
+	"terms" : ["rio 450"],
+	"output" : "<output folder>"
+}
